@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^18.0.3",
-    "NeteaseCloudMusicApi": "^3.36.0",
+    "NeteaseCloudMusicApi": "^4.19.8",
     "dotenv": "^8.2.0"
   }
 }
