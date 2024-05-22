@@ -19,6 +19,6 @@
   "dependencies": {
     "@octokit/rest": "^18.0.3",
     "NeteaseCloudMusicApi": "^4.19.8",
-    "dotenv": "^8.2.0"
+    "dotenv": "^16.4.5"
   }
 }
