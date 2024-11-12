@@ -18,7 +18,7 @@
   "author": "leecason",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^21.0.2",
+    "@octokit/rest": "^20.1.1",
     "NeteaseCloudMusicApi": "^4.22.0",
     "dotenv": "^16.4.5"
   }
