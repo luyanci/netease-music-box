@@ -20,3 +20,11 @@ jobs:
           GIST_ID: 04f72b81edfc1fdb77c616d5223ddf9b
           USER_ID: 1755813132
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
+  keepalive:
+    name: Keep workflow alive
+    runs-on: ubuntu-slim
+    permissions:
+      actions: write
+    steps:
+      - name: Keep workflow alive
+        uses: darktohka/keepalive-workflow@v1
